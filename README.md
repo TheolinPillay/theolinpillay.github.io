@@ -1,2 +1,2 @@
 # theolinpillay.github.io
-For personal projects
+Contains files for my personal website.
